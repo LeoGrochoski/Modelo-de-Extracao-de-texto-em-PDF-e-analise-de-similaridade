@@ -1,4 +1,4 @@
-# Modelo de Extracao de texto em PDF e analise de similaridade
+# Modelo de Extracao de texto de PDF e analise de similaridade entre textos
 
 ### Resumo: 
 
